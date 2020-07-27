@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w13 on </title>
+    <link>https://sitex.github.io/study/tags/w13/</link>
+    <description>Recent content in w13 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Mar 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sitex.github.io/study/tags/w13/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>After Effects course. Lesson 4.</title>
+      <link>https://sitex.github.io/study/post/2020/week13/after-effects-course-04/</link>
+      <pubDate>Fri, 27 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/post/2020/week13/after-effects-course-04/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Edit Keyboard Shortcuts&lt;/li&gt;
+&lt;li&gt;Shape Effects&lt;/li&gt;
+&lt;li&gt;Graph Editor&lt;/li&gt;
+&lt;li&gt;Adjustment Layer&lt;/li&gt;
+&lt;li&gt;Pen Tool&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gamification Book</title>
+      <link>https://sitex.github.io/study/post/2020/week13/gamification-book/</link>
+      <pubDate>Tue, 24 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/post/2020/week13/gamification-book/</guid>
+      <description> Игрофикация в бизнесе и в жизни: преврати рутину в игру!  </description>
+    </item>
+    
+  </channel>
+</rss>
