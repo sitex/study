@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpi on </title>
+    <link>/tags/rpi/</link>
+    <description>Recent content in rpi on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Mar 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rpi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RPi YouTube Livestream</title>
+      <link>/post/2020/week13/rpi-youtube-livestream/</link>
+      <pubDate>Mon, 23 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week13/rpi-youtube-livestream/</guid>
+      <description>&lt;p&gt;By adding a camera module to your Raspberry Pi, you essentially get a portable, lightweight, and easy-to-hold-or-mount internet-connected camera.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

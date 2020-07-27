@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Posts"/>
+<meta name="twitter:description" content="Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Posts &middot; " />
+  	<meta property="og:site_name" content="" />
+  	<meta property="og:url" content="/post/" />
+
+    
+        
+    
+
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud." />
+    
+
+    <title>Posts &middot; </title>
+
+    
+    <meta name="description" content="Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud." />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+
+    
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/default.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+        
+        <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="" />
+      
+      
+        <link href="/post/index.xml" rel="alternate" type="application/rss+xml" title="Posts &middot; " />
+      
+    
+    <meta name="generator" content="Hugo 0.67.0" />
+
+    <link rel="canonical" href="/post/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url":  null ,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "url": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": ""
+    },
+    "description": "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+}
+  </script>
+    
+
+
+    
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/post/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+
+	<header class="main-header tag-head no-cover">
+
+    <nav class="main-nav overlay clearfix">
+      
+      
+        
+          <a class="menu-button icon-feed" href="/post/index.xml">&nbsp;&nbsp;Subscribe</a>
+        
+      
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">Posts</h1>
+            <h2 class="page-description">
+                
+            </h2>
+        </div>
+    </div>
+</header>
+
+<main class="content" role="main">
+    
+
+	<div class="extra-pagination inner">
+    <nav class="pagination" role="navigation">
+	
+	    <a class="newer-posts" href="/post/page/8/">&larr; Newer Posts</a>
+	
+	<span class="page-number">Page 9 of 14</span>
+	
+	    <a class="older-posts" href="/post/page/10/">Older Posts &rarr;</a>
+	
+</nav>
+
+	</div>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/auryn-dependency-injector/">Auryn Dependency Injector</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>A dependency injector resolves the dependencies of your class and makes sure that the correct objects are injected when the class is instantiated.
+Basic Instantiation If a class only asks for concrete dependencies you can use the Injector to inject them without specifying any injection definitions:
+class SomeDep {} class AnotherDep {} class MyClass { public $dep1; public $dep2; public function __construct(SomeDep $dep1, AnotherDep $dep2) { $this-&gt;dep1 = $dep1; $this-&gt;dep2 = $dep2; } } $injector = new Auryn\Injector; $myObj = $injector-&gt;make('MyClass'); In this scenario you can use the Injector to automatically provision MyClass with the required SomeDependency and AnotherDependency class instances.</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/auryn-dependency-injector/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-12-19T02:01:26Z">
+            19 Dec 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/virtualenv/">virtualenv</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>virtualenv lets you create virtual Python environments. Everything you install or remove in that environment stays there and other environments are not affected.
+Most importantly, you don&rsquo;t pollute the global package directory of your system.
+Create an Environment virtualenv my_blog_environment Exploring the Virtual Environment cd my_blog_environment/ source bin/activate The activate script will also modify your shell prompt to indicate which environment is currently active.
+To undo these changes to your path (and prompt), just run:</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/virtualenv/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-12-10T01:55:15Z">
+            10 Dec 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/pywatch/">Automated Tests with pywatch</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>Run My tests require SQLite. Let&rsquo;s install it first:
+sudo apt-get install php-sqlite3 Now we can run tests with:
+./vendor/bin/phpunit Automate We can use a utility called pywatch to run a command when files are changed. Here&rsquo;s how we create a new Laravel project and run unit tests automatically when they&rsquo;re updated:
+cd ~/Sites composer create project laravel/laravel docker-testing cd docker-testing virtualenv .venv source .venv/bin/activate pip install pywatch pywatch ./vendor/bin/phpunit .</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/pywatch/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-12-10T00:59:38Z">
+            10 Dec 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/deploy-php-series/">Deploy PHP Series</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>https://deploy.serversforhackers.com/</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/deploy-php-series/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-11-18T00:50:00Z">
+            18 Nov 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/spintax/">spintax</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>Use spintax to write variations of an article description. So product descriptions should be:
+ well written grammatically correct fairly unique  Link: http://www.spintaxtool.com/
+Examples: https://searchwilderness.com/blackhat-article-spinning-spintax-white-seo</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/spintax/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-11-08T06:22:00Z">
+            8 Nov 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/python-seo-analyzer/">python-seo-analyzer</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>seoanalyze http://www.domain.com/ --sitemap path/to/sitemap.xml
+https://github.com/sethblack/python-seo-analyzer</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/python-seo-analyzer/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-11-08T06:19:00Z">
+            8 Nov 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/bem/">BEM</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>BEM (Block, Element, Modifier) is an open source technology for developing websites that need to be created quickly and maintained over many years. BEM is used in the frontend development of all Yandex services.
+https://tech.yandex.com/bem/
+Block A functionally independent page component that can be reused. In HTML, blocks are represented by the class attribute.
+&lt;!-- Correct. The `error` block is semantically meaningful --&gt; &lt;div class=&quot;error&quot;&gt;&lt;/div&gt; &lt;!-- Incorrect. It describes the appearance --&gt; &lt;div class=&quot;red-text&quot;&gt;&lt;/div&gt; Element A composite part of a block that can&rsquo;t be used separately from it.</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/bem/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-08-27T21:27:00Z">
+            27 Aug 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/frozentimelocal-for-cakephp/">FrozenTimeLocal for CakePHP</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>Modify default DateTime type to return localized date with timezone.
+class FrozenTimeLocal extends FrozenTime { public function __toString() { return $this-&gt;i18nFormat('dd MMM HH:mm', 'Asia/Dhaka', 'ru_Ru'); } } External: Stackoverflow - CakePHP 3 time column gets date added</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/frozentimelocal-for-cakephp/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-08-13T20:07:33Z">
+            13 Aug 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/online-convert/">Online Convert</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>Convert media files online from one format into another.
+https://www.online-convert.com/</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/online-convert/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-08-09T21:19:00Z">
+            9 Aug 2017
+        </time>
+    </footer>
+</article>
+
+	
+	   <article class="post post">
+    <header class="post-header">
+        <h2 class="post-title"><a href="/post/2017/megatools-for-mega-nz/">Megatools for Mega.nz</a></h2>
+    </header>
+    <section class="post-excerpt">
+        
+            <p>Megatools is a collection of programs for accessing Mega.nz service from a command line of your desktop or server.
+ sudo apt install megatools
+  megadl [url]
+ https://megatools.megous.com/</p>
+            <p style="text-align: right;"><a class="read-more" href="/post/2017/megatools-for-mega-nz/">&raquo;&nbsp;Read&nbsp;more</a></p>
+        
+    </section>
+    <footer class="post-meta">
+        
+
+        
+
+        
+        <time class="post-date" datetime="2017-08-05T07:37:02Z">
+            5 Aug 2017
+        </time>
+    </footer>
+</article>
+
+	
+
+	<nav class="pagination" role="navigation">
+	
+	    <a class="newer-posts" href="/post/page/8/">&larr; Newer Posts</a>
+	
+	<span class="page-number">Page 9 of 14</span>
+	
+	    <a class="older-posts" href="/post/page/10/">Older Posts &rarr;</a>
+	
+</nav>
+
+</main>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href=""></a> </section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>

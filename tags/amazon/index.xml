@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amazon on </title>
+    <link>/tags/amazon/</link>
+    <description>Recent content in amazon on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Mar 2019 14:15:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All files in Amazon S3</title>
+      <link>/post/2019/all-files-in-amazon-s3/</link>
+      <pubDate>Wed, 06 Mar 2019 14:15:00 +0000</pubDate>
+      
+      <guid>/post/2019/all-files-in-amazon-s3/</guid>
+      <description>$ s3cmd ls -r s3://yourbucket/ | awk &#39;{print $4}&#39; &amp;gt; objects_in_bucket </description>
+    </item>
+    
+  </channel>
+</rss>

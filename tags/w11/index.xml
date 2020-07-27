@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w11 on </title>
+    <link>/tags/w11/</link>
+    <description>Recent content in w11 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Mar 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/w11/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Shortcodes</title>
+      <link>/post/2020/week11/hugo-shortcodes/</link>
+      <pubDate>Sat, 14 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week11/hugo-shortcodes/</guid>
+      <description>&lt;p&gt;Shortcodes are simple snippets inside your content files calling built-in or custom templates.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>After Effects course. Lesson 2.</title>
+      <link>/post/2020/week11/after-effects-course-02/</link>
+      <pubDate>Fri, 13 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week11/after-effects-course-02/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Shapes&lt;/li&gt;
+&lt;li&gt;Anchor Point&lt;/li&gt;
+&lt;li&gt;Easing&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Psalm static analysis tool</title>
+      <link>/post/2020/week11/psalm-dev/</link>
+      <pubDate>Thu, 12 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week11/psalm-dev/</guid>
+      <description>&lt;p&gt;Psalm is an open-source static analysis tool for PHP that helps you identify both obvious and hard-to-spot bugs in your code.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow Dev Summit 2020</title>
+      <link>/post/2020/week11/tf-dev-summit-2020/</link>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week11/tf-dev-summit-2020/</guid>
+      <description>&lt;p&gt;TensorFlow Dev Summit 2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Any Do</title>
+      <link>/post/2020/week11/any-do/</link>
+      <pubDate>Tue, 10 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week11/any-do/</guid>
+      <description>&lt;p&gt;Organize your tasks, lists and reminders in one easy to-do app. Any.do syncs seamlessly across all of your devices, making your to-do list accessible everywhere.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

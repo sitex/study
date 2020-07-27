@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w12 on </title>
+    <link>/tags/w12/</link>
+    <description>Recent content in w12 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Mar 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/w12/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>After Effects course. Lesson 3.</title>
+      <link>/post/2020/week12/after-effects-course-03/</link>
+      <pubDate>Fri, 20 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week12/after-effects-course-03/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ping Pong Animation&lt;/li&gt;
+&lt;li&gt;Keyframe Interpolation&lt;/li&gt;
+&lt;li&gt;Morphing&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Little Big</title>
+      <link>/post/2020/week12/little-big/</link>
+      <pubDate>Wed, 18 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week12/little-big/</guid>
+      <description>&lt;p&gt;Little Big is a Russian rave band founded in 2013 in Saint Petersburg.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Self Development. Stage 1.</title>
+      <link>/post/2020/week12/self-development-stage-1/</link>
+      <pubDate>Tue, 17 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week12/self-development-stage-1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;a lot of courses in different areas of life&lt;/li&gt;
+&lt;li&gt;hard to implement all at once&lt;/li&gt;
+&lt;li&gt;courses are quickly forgotten&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Robert McKee</title>
+      <link>/post/2020/week12/robert-mckee/</link>
+      <pubDate>Mon, 16 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week12/robert-mckee/</guid>
+      <description>&lt;p&gt;Robert McKee (born January 30, 1941) is an author, lecturer and story consultant.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>After Effects scripts</title>
+      <link>/post/2020/week12/after-effects-scripts/</link>
+      <pubDate>Sun, 15 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/week12/after-effects-scripts/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;centerAnchorPoint.jsx&lt;/li&gt;
+&lt;li&gt;convertToKeyframe.jsx&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
