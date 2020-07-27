@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>https://sitex.github.io/study/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 25 Jul 2020 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sitex.github.io/study/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>course</title>
-      <link>/tags/course/</link>
+      <link>https://sitex.github.io/study/tags/course/</link>
       <pubDate>Sat, 25 Jul 2020 12:00:00 +0000</pubDate>
       
-      <guid>/tags/course/</guid>
+      <guid>https://sitex.github.io/study/tags/course/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spanish</title>
-      <link>/tags/spanish/</link>
+      <link>https://sitex.github.io/study/tags/spanish/</link>
       <pubDate>Sat, 25 Jul 2020 12:00:00 +0000</pubDate>
       
-      <guid>/tags/spanish/</guid>
+      <guid>https://sitex.github.io/study/tags/spanish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>w30</title>
-      <link>/tags/w30/</link>
+      <link>https://sitex.github.io/study/tags/w30/</link>
       <pubDate>Sat, 25 Jul 2020 12:00:00 +0000</pubDate>
       
-      <guid>/tags/w30/</guid>
+      <guid>https://sitex.github.io/study/tags/w30/</guid>
       <description></description>
     </item>
     

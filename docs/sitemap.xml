@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/course/</loc>
+    <loc>https://sitex.github.io/study/tags/course/</loc>
     <lastmod>2020-07-25T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://sitex.github.io/study/post/</loc>
+    <lastmod>2020-07-25T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/</loc>
     <lastmod>2020-07-25T12:00:00+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>/tags/spanish/</loc>
+    <loc>https://sitex.github.io/study/tags/spanish/</loc>
     <lastmod>2020-07-25T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/study/post/2020/week30/spanish-lesson-25/</loc>
+    <loc>https://sitex.github.io/study/post/2020/week30/spanish-lesson-25/</loc>
     <lastmod>2020-07-25T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/study/</loc>
+    <loc>https://sitex.github.io/study/tags/</loc>
     <lastmod>2020-07-25T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://sitex.github.io/study/tags/w30/</loc>
     <lastmod>2020-07-25T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/w30/</loc>
-    <lastmod>2020-07-25T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/study/post/2020/week30/spanish-lesson-24/</loc>
+    <loc>https://sitex.github.io/study/post/2020/week30/spanish-lesson-24/</loc>
     <lastmod>2020-07-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://sitex.github.io/study/categories/</loc>
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>https://sitex.github.io/study/search/</loc>
   </url>
   
 </urlset>
