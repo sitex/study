@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hugo + Lunrjs = &lt;3 search </title>
+</head>
+
+<body>
+    Search:
+    <input id="search" type="text">
+    <br> Results:
+    <ul id="results">
+    </ul>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script type="text/javascript">
+    var lunrIndex,
+        $results,
+        pagesIndex;
+
+    
+    function initLunr() {
+        
+        $.getJSON("/js/lunr/PagesIndex.json")
+            .done(function(index) {
+                pagesIndex = index;
+                
+
+                var idx = lunr(function () {
+                    this.ref('id')
+                    this.field('text')
+
+                    this.add({ id: 1, text: 'hello' })
+                })
+
+                
+                
+                lunrIndex = lunr(function() {
+                    this.field("title", {
+                        boost: 10
+                    });
+                    this.field("tags", {
+                        boost: 5
+                    });
+                    this.field("content");
+
+                    
+                    this.ref("href");
+
+                    
+                    $this = this
+                    pagesIndex.forEach(function(page) {
+                        $this.add(page);
+                    });
+                });
+
+            })
+            .fail(function(jqxhr, textStatus, error) {
+                var err = textStatus + ", " + error;
+                console.error("Error getting Hugo index flie:", err);
+            });
+    }
+
+    
+    function initUI() {
+        $results = $("#results");
+        $("#search").keyup(function() {
+            $results.empty();
+
+            
+            var query = $(this).val();
+            if (query.length < 2) {
+                return;
+            }
+
+            var results = search(query);
+
+            renderResults(results);
+        });
+    }
+
+    
+
+    function search(query) {
+        
+        
+        
+        
+        
+        return lunrIndex.search(query).map(function(result) {
+                return pagesIndex.filter(function(page) {
+                    return page.href === result.ref;
+                })[0];
+            });
+    }
+
+    
+
+    function renderResults(results) {
+        if (!results.length) {
+            return;
+        }
+
+        
+        results.slice(0, 10).forEach(function(result) {
+            var $result = $("<li>");
+            $result.append($("<a>", {
+                href: '/post/' + result.href,
+                text: "» " + result.title
+            }));
+            $results.append($result);
+        });
+    }
+
+    
+    initLunr();
+
+    $(document).ready(function() {
+        initUI();
+    });
+    </script>
+</body>
+
+</html>
