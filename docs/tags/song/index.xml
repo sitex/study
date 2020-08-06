@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>song on </title>
+    <link>https://sitex.github.io/study/tags/song/</link>
+    <description>Recent content in song on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 Aug 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sitex.github.io/study/tags/song/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La canción de la luna</title>
+      <link>https://sitex.github.io/study/post/2020/week32/luna/</link>
+      <pubDate>Wed, 05 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/post/2020/week32/luna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santana - Corazon Espinado ft. Mana</title>
+      <link>https://sitex.github.io/study/post/2020/week31/corazon-espinado/</link>
+      <pubDate>Tue, 28 Jul 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/post/2020/week31/corazon-espinado/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
