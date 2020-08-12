@@ -1,107 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
     <link>https://sitex.github.io/study/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Aug 2020 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sitex.github.io/study/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>song</title>
-      <link>https://sitex.github.io/study/tags/song/</link>
-      <pubDate>Wed, 05 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spanish</title>
-      <link>https://sitex.github.io/study/tags/spanish/</link>
-      <pubDate>Wed, 05 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w32</title>
-      <link>https://sitex.github.io/study/tags/w32/</link>
-      <pubDate>Wed, 05 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w32/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>course</title>
-      <link>https://sitex.github.io/study/tags/course/</link>
-      <pubDate>Tue, 04 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w33</title>
-      <link>https://sitex.github.io/study/tags/w33/</link>
-      <pubDate>Tue, 04 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w33/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w31</title>
-      <link>https://sitex.github.io/study/tags/w31/</link>
-      <pubDate>Sat, 01 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w31/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w30</title>
-      <link>https://sitex.github.io/study/tags/w30/</link>
-      <pubDate>Sat, 25 Jul 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w29</title>
-      <link>https://sitex.github.io/study/tags/w29/</link>
-      <pubDate>Sat, 18 Jul 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w29/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w28</title>
-      <link>https://sitex.github.io/study/tags/w28/</link>
-      <pubDate>Sat, 11 Jul 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w28/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w27</title>
-      <link>https://sitex.github.io/study/tags/w27/</link>
-      <pubDate>Sat, 04 Jul 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w27/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ae</title>
+      <title>Ae</title>
       <link>https://sitex.github.io/study/tags/ae/</link>
       <pubDate>Tue, 23 Jun 2020 12:00:00 +0000</pubDate>
       
@@ -110,79 +20,16 @@
     </item>
     
     <item>
-      <title>w26</title>
-      <link>https://sitex.github.io/study/tags/w26/</link>
-      <pubDate>Tue, 23 Jun 2020 12:00:00 +0000</pubDate>
+      <title>Course</title>
+      <link>https://sitex.github.io/study/tags/course/</link>
+      <pubDate>Tue, 11 Aug 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://sitex.github.io/study/tags/w26/</guid>
+      <guid>https://sitex.github.io/study/tags/course/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>w25</title>
-      <link>https://sitex.github.io/study/tags/w25/</link>
-      <pubDate>Sat, 20 Jun 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w24</title>
-      <link>https://sitex.github.io/study/tags/w24/</link>
-      <pubDate>Sun, 14 Jun 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w23</title>
-      <link>https://sitex.github.io/study/tags/w23/</link>
-      <pubDate>Wed, 03 Jun 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w22</title>
-      <link>https://sitex.github.io/study/tags/w22/</link>
-      <pubDate>Sun, 31 May 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w21</title>
-      <link>https://sitex.github.io/study/tags/w21/</link>
-      <pubDate>Sat, 23 May 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w20</title>
-      <link>https://sitex.github.io/study/tags/w20/</link>
-      <pubDate>Fri, 15 May 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w19</title>
-      <link>https://sitex.github.io/study/tags/w19/</link>
-      <pubDate>Sat, 09 May 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>courses</title>
+      <title>Courses</title>
       <link>https://sitex.github.io/study/tags/courses/</link>
       <pubDate>Fri, 08 May 2020 12:00:00 +0000</pubDate>
       
@@ -191,43 +38,7 @@
     </item>
     
     <item>
-      <title>w18</title>
-      <link>https://sitex.github.io/study/tags/w18/</link>
-      <pubDate>Fri, 01 May 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w17</title>
-      <link>https://sitex.github.io/study/tags/w17/</link>
-      <pubDate>Fri, 24 Apr 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w14</title>
-      <link>https://sitex.github.io/study/tags/w14/</link>
-      <pubDate>Tue, 31 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workout</title>
-      <link>https://sitex.github.io/study/tags/workout/</link>
-      <pubDate>Tue, 31 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/workout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gamification</title>
+      <title>Gamification</title>
       <link>https://sitex.github.io/study/tags/gamification/</link>
       <pubDate>Mon, 30 Mar 2020 12:00:00 +0000</pubDate>
       
@@ -236,34 +47,7 @@
     </item>
     
     <item>
-      <title>w13</title>
-      <link>https://sitex.github.io/study/tags/w13/</link>
-      <pubDate>Fri, 27 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>w12</title>
-      <link>https://sitex.github.io/study/tags/w12/</link>
-      <pubDate>Fri, 20 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/w12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>study</title>
-      <link>https://sitex.github.io/study/tags/study/</link>
-      <pubDate>Tue, 17 Mar 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://sitex.github.io/study/tags/study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scripts</title>
+      <title>Scripts</title>
       <link>https://sitex.github.io/study/tags/scripts/</link>
       <pubDate>Sun, 15 Mar 2020 12:00:00 +0000</pubDate>
       
@@ -272,7 +56,43 @@
     </item>
     
     <item>
-      <title>w11</title>
+      <title>Song</title>
+      <link>https://sitex.github.io/study/tags/song/</link>
+      <pubDate>Wed, 05 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish</title>
+      <link>https://sitex.github.io/study/tags/spanish/</link>
+      <pubDate>Tue, 11 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study</title>
+      <link>https://sitex.github.io/study/tags/study/</link>
+      <pubDate>Tue, 17 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W10</title>
+      <link>https://sitex.github.io/study/tags/w10/</link>
+      <pubDate>Fri, 06 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W11</title>
       <link>https://sitex.github.io/study/tags/w11/</link>
       <pubDate>Fri, 13 Mar 2020 12:00:00 +0000</pubDate>
       
@@ -281,11 +101,191 @@
     </item>
     
     <item>
-      <title>w10</title>
-      <link>https://sitex.github.io/study/tags/w10/</link>
-      <pubDate>Fri, 06 Mar 2020 12:00:00 +0000</pubDate>
+      <title>W12</title>
+      <link>https://sitex.github.io/study/tags/w12/</link>
+      <pubDate>Fri, 20 Mar 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://sitex.github.io/study/tags/w10/</guid>
+      <guid>https://sitex.github.io/study/tags/w12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W13</title>
+      <link>https://sitex.github.io/study/tags/w13/</link>
+      <pubDate>Fri, 27 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W14</title>
+      <link>https://sitex.github.io/study/tags/w14/</link>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W17</title>
+      <link>https://sitex.github.io/study/tags/w17/</link>
+      <pubDate>Fri, 24 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W18</title>
+      <link>https://sitex.github.io/study/tags/w18/</link>
+      <pubDate>Fri, 01 May 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W19</title>
+      <link>https://sitex.github.io/study/tags/w19/</link>
+      <pubDate>Sat, 09 May 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W20</title>
+      <link>https://sitex.github.io/study/tags/w20/</link>
+      <pubDate>Fri, 15 May 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W21</title>
+      <link>https://sitex.github.io/study/tags/w21/</link>
+      <pubDate>Sat, 23 May 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W22</title>
+      <link>https://sitex.github.io/study/tags/w22/</link>
+      <pubDate>Sun, 31 May 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W23</title>
+      <link>https://sitex.github.io/study/tags/w23/</link>
+      <pubDate>Wed, 03 Jun 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W24</title>
+      <link>https://sitex.github.io/study/tags/w24/</link>
+      <pubDate>Sun, 14 Jun 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W25</title>
+      <link>https://sitex.github.io/study/tags/w25/</link>
+      <pubDate>Sat, 20 Jun 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W26</title>
+      <link>https://sitex.github.io/study/tags/w26/</link>
+      <pubDate>Tue, 23 Jun 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W27</title>
+      <link>https://sitex.github.io/study/tags/w27/</link>
+      <pubDate>Sat, 04 Jul 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W28</title>
+      <link>https://sitex.github.io/study/tags/w28/</link>
+      <pubDate>Sat, 11 Jul 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W29</title>
+      <link>https://sitex.github.io/study/tags/w29/</link>
+      <pubDate>Sat, 18 Jul 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W30</title>
+      <link>https://sitex.github.io/study/tags/w30/</link>
+      <pubDate>Sat, 25 Jul 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W31</title>
+      <link>https://sitex.github.io/study/tags/w31/</link>
+      <pubDate>Sat, 01 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W32</title>
+      <link>https://sitex.github.io/study/tags/w32/</link>
+      <pubDate>Sat, 08 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W33</title>
+      <link>https://sitex.github.io/study/tags/w33/</link>
+      <pubDate>Tue, 11 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/w33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workout</title>
+      <link>https://sitex.github.io/study/tags/workout/</link>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/tags/workout/</guid>
       <description></description>
     </item>
     

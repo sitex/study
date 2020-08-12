@@ -1,46 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sitex.github.io/study/post/2020/week33/spanish-lesson-30/</loc>
+    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/post/2020/week32/spanish-lesson-29/</loc>
+    <lastmod>2020-08-08T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sitex.github.io/study/post/2020/week32/luna/</loc>
     <lastmod>2020-08-05T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/post/</loc>
-    <lastmod>2020-08-05T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/</loc>
-    <lastmod>2020-08-05T12:00:00+00:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/song/</loc>
-    <lastmod>2020-08-05T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/spanish/</loc>
-    <lastmod>2020-08-05T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/</loc>
-    <lastmod>2020-08-05T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/w32/</loc>
-    <lastmod>2020-08-05T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/course/</loc>
-    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,17 +23,7 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w33/</loc>
-    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week31/spanish-lesson-27/</loc>
-    <lastmod>2020-08-01T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/w31/</loc>
     <lastmod>2020-08-01T12:00:00+00:00</lastmod>
   </url>
   
@@ -79,22 +43,12 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w30/</loc>
-    <lastmod>2020-07-25T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week30/spanish-lesson-24/</loc>
     <lastmod>2020-07-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sitex.github.io/study/post/2020/week29/spanish-lesson-23/</loc>
-    <lastmod>2020-07-18T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/w29/</loc>
     <lastmod>2020-07-18T12:00:00+00:00</lastmod>
   </url>
   
@@ -109,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w28/</loc>
-    <lastmod>2020-07-11T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week28/spanish-lesson-20/</loc>
     <lastmod>2020-07-07T12:00:00+00:00</lastmod>
   </url>
@@ -124,18 +73,8 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w27/</loc>
-    <lastmod>2020-07-04T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week27/spanish-lesson-18/</loc>
     <lastmod>2020-06-30T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/ae/</loc>
-    <lastmod>2020-06-23T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -154,22 +93,12 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w26/</loc>
-    <lastmod>2020-06-23T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week26/vfx-pro-01/</loc>
     <lastmod>2020-06-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sitex.github.io/study/post/2020/week25/spanish-lesson-15/</loc>
-    <lastmod>2020-06-20T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/w25/</loc>
     <lastmod>2020-06-20T12:00:00+00:00</lastmod>
   </url>
   
@@ -184,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w24/</loc>
-    <lastmod>2020-06-14T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week24/spanish-lesson-13/</loc>
     <lastmod>2020-06-09T12:00:00+00:00</lastmod>
   </url>
@@ -199,17 +123,7 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w23/</loc>
-    <lastmod>2020-06-03T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week22/after-effects-lesson-16/</loc>
-    <lastmod>2020-05-31T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/w22/</loc>
     <lastmod>2020-05-31T12:00:00+00:00</lastmod>
   </url>
   
@@ -239,11 +153,6 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w21/</loc>
-    <lastmod>2020-05-23T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week21/after-effects-lesson-13/</loc>
     <lastmod>2020-05-22T12:00:00+00:00</lastmod>
   </url>
@@ -255,11 +164,6 @@
   
   <url>
     <loc>https://sitex.github.io/study/post/2020/week20/after-effects-lesson-11/</loc>
-    <lastmod>2020-05-15T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/w20/</loc>
     <lastmod>2020-05-15T12:00:00+00:00</lastmod>
   </url>
   
@@ -289,17 +193,7 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w19/</loc>
-    <lastmod>2020-05-09T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week19/after-effects-lesson-09/</loc>
-    <lastmod>2020-05-08T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/courses/</loc>
     <lastmod>2020-05-08T12:00:00+00:00</lastmod>
   </url>
   
@@ -319,38 +213,13 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w18/</loc>
-    <lastmod>2020-05-01T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week17/after-effects-lesson-08/</loc>
     <lastmod>2020-04-24T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w17/</loc>
-    <lastmod>2020-04-24T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/w14/</loc>
-    <lastmod>2020-03-31T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/workout/</loc>
-    <lastmod>2020-03-31T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week14/x3-program-week-1-workout-2/</loc>
     <lastmod>2020-03-31T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/gamification/</loc>
-    <lastmod>2020-03-30T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -369,11 +238,6 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w13/</loc>
-    <lastmod>2020-03-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week13/gamification-book/</loc>
     <lastmod>2020-03-24T12:00:00+00:00</lastmod>
   </url>
@@ -384,17 +248,7 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w12/</loc>
-    <lastmod>2020-03-20T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week12/self-development-stage-1/</loc>
-    <lastmod>2020-03-17T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/study/</loc>
     <lastmod>2020-03-17T12:00:00+00:00</lastmod>
   </url>
   
@@ -409,17 +263,7 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/scripts/</loc>
-    <lastmod>2020-03-15T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sitex.github.io/study/post/2020/week11/after-effects-course-02/</loc>
-    <lastmod>2020-03-13T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sitex.github.io/study/tags/w11/</loc>
     <lastmod>2020-03-13T12:00:00+00:00</lastmod>
   </url>
   
@@ -429,16 +273,216 @@
   </url>
   
   <url>
-    <loc>https://sitex.github.io/study/tags/w10/</loc>
-    <lastmod>2020-03-06T12:00:00+00:00</lastmod>
+    <loc>https://sitex.github.io/study/tags/ae/</loc>
+    <lastmod>2020-06-23T12:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sitex.github.io/study/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/course/</loc>
+    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/courses/</loc>
+    <lastmod>2020-05-08T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/gamification/</loc>
+    <lastmod>2020-03-30T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/post/</loc>
+    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/</loc>
+    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/scripts/</loc>
+    <lastmod>2020-03-15T12:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sitex.github.io/study/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/song/</loc>
+    <lastmod>2020-08-05T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/spanish/</loc>
+    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/study/</loc>
+    <lastmod>2020-03-17T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/</loc>
+    <lastmod>2020-06-23T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w10/</loc>
+    <lastmod>2020-03-06T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w11/</loc>
+    <lastmod>2020-03-13T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w12/</loc>
+    <lastmod>2020-03-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w13/</loc>
+    <lastmod>2020-03-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w14/</loc>
+    <lastmod>2020-03-31T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w17/</loc>
+    <lastmod>2020-04-24T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w18/</loc>
+    <lastmod>2020-05-01T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w19/</loc>
+    <lastmod>2020-05-09T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w20/</loc>
+    <lastmod>2020-05-15T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w21/</loc>
+    <lastmod>2020-05-23T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w22/</loc>
+    <lastmod>2020-05-31T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w23/</loc>
+    <lastmod>2020-06-03T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w24/</loc>
+    <lastmod>2020-06-14T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w25/</loc>
+    <lastmod>2020-06-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w26/</loc>
+    <lastmod>2020-06-23T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w27/</loc>
+    <lastmod>2020-07-04T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w28/</loc>
+    <lastmod>2020-07-11T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w29/</loc>
+    <lastmod>2020-07-18T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w30/</loc>
+    <lastmod>2020-07-25T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w31/</loc>
+    <lastmod>2020-08-01T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w32/</loc>
+    <lastmod>2020-08-08T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w33/</loc>
+    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/workout/</loc>
+    <lastmod>2020-03-31T12:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
