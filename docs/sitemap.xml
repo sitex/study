@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sitex.github.io/study/post/2020/week33/spanish-lesson-31/</loc>
+    <lastmod>2020-08-15T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/post/2020/week33/lukin-life-18/</loc>
+    <lastmod>2020-08-14T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sitex.github.io/study/post/2020/week33/spanish-lesson-30/</loc>
     <lastmod>2020-08-11T12:00:00+00:00</lastmod>
   </url>
@@ -285,7 +295,7 @@
   
   <url>
     <loc>https://sitex.github.io/study/tags/course/</loc>
-    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <lastmod>2020-08-15T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -302,14 +312,20 @@
   </url>
   
   <url>
+    <loc>https://sitex.github.io/study/tags/life/</loc>
+    <lastmod>2020-08-14T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sitex.github.io/study/post/</loc>
-    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <lastmod>2020-08-15T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sitex.github.io/study/</loc>
-    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <lastmod>2020-08-15T12:00:00+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   
@@ -331,7 +347,7 @@
   
   <url>
     <loc>https://sitex.github.io/study/tags/spanish/</loc>
-    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <lastmod>2020-08-15T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -475,7 +491,7 @@
   
   <url>
     <loc>https://sitex.github.io/study/tags/w33/</loc>
-    <lastmod>2020-08-11T12:00:00+00:00</lastmod>
+    <lastmod>2020-08-15T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
