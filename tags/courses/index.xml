@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on </title>
+    <link>https://sitex.github.io/study/tags/courses/</link>
+    <description>Recent content in Courses on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 May 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sitex.github.io/study/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>After Effects Lesson 09</title>
+      <link>https://sitex.github.io/study/post/2020/week19/after-effects-lesson-09/</link>
+      <pubDate>Fri, 08 May 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/post/2020/week19/after-effects-lesson-09/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Light&lt;/li&gt;
+&lt;li&gt;4 Views&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>After Effects Lesson 08</title>
+      <link>https://sitex.github.io/study/post/2020/week17/after-effects-lesson-08/</link>
+      <pubDate>Fri, 24 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://sitex.github.io/study/post/2020/week17/after-effects-lesson-08/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2.5D&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
