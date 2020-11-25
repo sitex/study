@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sitex.github.io/study/post/2020/week47/spanish-lesson-67/</loc>
+    <lastmod>2020-11-20T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/post/2020/week47/spanish-lesson-66/</loc>
+    <lastmod>2020-11-18T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/post/2020/week47/spanish-lesson-65/</loc>
+    <lastmod>2020-11-16T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sitex.github.io/study/post/2020/week46/spanish-lesson-64/</loc>
     <lastmod>2020-11-13T12:00:00+00:00</lastmod>
   </url>
@@ -460,7 +475,7 @@
   
   <url>
     <loc>https://sitex.github.io/study/tags/course/</loc>
-    <lastmod>2020-11-13T12:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -484,13 +499,13 @@
   
   <url>
     <loc>https://sitex.github.io/study/post/</loc>
-    <lastmod>2020-11-13T12:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sitex.github.io/study/</loc>
-    <lastmod>2020-11-13T12:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T12:00:00+00:00</lastmod>
     <priority>0.6</priority>
   </url>
   
@@ -512,7 +527,7 @@
   
   <url>
     <loc>https://sitex.github.io/study/tags/spanish/</loc>
-    <lastmod>2020-11-13T12:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -735,6 +750,12 @@
   <url>
     <loc>https://sitex.github.io/study/tags/w46/</loc>
     <lastmod>2020-11-13T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sitex.github.io/study/tags/w47/</loc>
+    <lastmod>2020-11-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
